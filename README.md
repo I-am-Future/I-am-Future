@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @I-am-Future, a freshman in CS major.
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning python, C++, and something else interesting...
+- 🌱 I’m currently learning many things, but can do nothing well.
 - 📫 How to reach me 3038242641@qq.com
 
 <!---
