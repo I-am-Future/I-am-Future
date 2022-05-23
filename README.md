@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @I-am-Future, a freshman in CS major.
+- 👋 Hi, I’m @I-am-Future, a 3rd year undergraduate in CS major.
 - 👀 I’m interested in computer science.
 - 🌱 I’m currently learning many things, but can do nothing well.
 - 📫 How to reach me 3038242641@qq.com
