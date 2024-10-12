@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @I-am-Future, a 4th year undergraduate in CS major. I will go to UC San Diego for my Master degree in computer science!
+- 👋 Hi, I’m @I-am-Future, a UC San Diego master student in computer science!
 - 👀 I’m interested in:
   -  robotics (like arm robots and dexterous hands),
   -  embodied AI (multimodal perception, decision, control for the robots mentioned above),
