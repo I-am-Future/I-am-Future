@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @I-am-Future, a UC San Diego master student in computer science!
-- 👀 I’m interested in:
+- 👀 I’m interested in: (see [my website](https://i-am-future.github.io/) for details)
   -  robotics (like arm robots and dexterous hands),
   -  embodied AI (multimodal perception, decision, control for the robots mentioned above),
   -  deep learning (this is the tool for previous topic),
